@@ -9,7 +9,7 @@
 })(function(CodeMirror) {
 "use strict";
 
-CodeMirror.defineMode("jackl", function () {
+CodeMirror.defineMode("jon", function () {
 
   var rules = [
     'comment',    /^--.*/,
